@@ -1,0 +1,6 @@
+# ninja log v5
+4	540	7294985238874331	CMakeFiles/Project2.dir/main.cpp.obj	d6c094cea4cd0eda
+4	281	7294991508811942	build.ninja	8e3e522824de27ff
+4	393	7294981615256325	CMakeFiles/Project2.dir/Card.cpp.obj	d58ce132806e1e6a
+5	439	7294990513225262	CMakeFiles/Project2.dir/Deck.cpp.obj	79bbe920cd346f4d
+439	562	7294990514398549	Project2.exe	7c0d4cd857e2b4aa
